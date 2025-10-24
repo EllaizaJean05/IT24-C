@@ -1,0 +1,25 @@
+[
+    {
+        "name": "Seven Eleven",
+        "description": "They have a lot of drinks",
+        "img": "https://mir-s3-cdn-cf.behance.net/project_modules/1400/7cd8b5116903781.606bb67564925.jpg",
+        "lat": "8.367498",
+        "lang": "124.865045"
+
+
+    },
+    {
+         "name": "Jollibee",
+        "description": "Delicious ilang chicken",
+        "img": "https://www.bing.com/images/search?view=detailV2&ccid=aH7IzLIg&id=921962F458F3093D390FBD415200F11CBA103893&thid=OIP.aH7IzLIgGiH0wiPQmJqS9AHaE7&mediaurl=https%3a%2f%2fcdn.vox-cdn.com%2fthumbor%2fEaiEk_dreIzfHTuEav5vYwoNyu0%3d%2f0x0%3a800x1000%2f2420x1613%2ffilters%3afocal(329x485%3a457x613)%2fcdn.vox-cdn.com%2fuploads%2fchorus_image%2fimage%2f67560355%2fJollibee_.0.jpg&cdnurl=https%3a%2f%2fth.bing.com%2fth%2fid%2fR.687ec8ccb2201a21f4c223d0989a92f4%3frik%3dkzgQuhzxAFJBvQ%26pid%3dImgRaw%26r%3d0&exph=1613&expw=2420&q=jollibee&FORM=IRPRST&ck=92946FEC5C7387227541210927685A2A&selectedIndex=7&itb=0",
+        "lat": "8.367397",
+        "lang": "124.865287"
+    },
+    {
+        "name": "Street Foods in Plaza",
+        "description": "Proben and Tasted",
+        "img": "https://th.bing.com/th/id/R.52ee65d44e5c95ef51eda81aa8aace97?rik=taWId2%2fl0lJXHg&pid=ImgRaw&r=0",
+        "lat": "8.367827",
+        "lang": "124.866301"
+    }
+]
