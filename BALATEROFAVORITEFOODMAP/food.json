@@ -1,0 +1,23 @@
+[
+  {
+    "name": "Seven Eleven",
+    "description": "They have a lot of drinks",
+    "img": "https://mir-s3-cdn-cf.behance.net/project_modules/1400/7cd8b5116903781.606bb67564925.jpg",
+    "lat": 8.367498,
+    "lng": 124.865045
+  },
+  {
+    "name": "Jollibee",
+    "description": "Delicious ilang chicken",
+    "img": "https://cdn.vox-cdn.com/uploads/chorus_image/image/67560355/Jollibee_.0.jpg",
+    "lat": 8.367397,
+    "lng": 124.865287
+  },
+  {
+    "name": "Street Foods in Plaza",
+    "description": "Proben and Tasted",
+    "img": "https://th.bing.com/th/id/R.52ee65d44e5c95ef51eda81aa8aace97?rik=taWId2%2fl0lJXHg&pid=ImgRaw&r=0",
+    "lat": 8.367827,
+    "lng": 124.866301
+  }
+]
